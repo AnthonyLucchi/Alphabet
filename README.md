@@ -9,7 +9,7 @@ If the wrong letter is chosen then the letters will rearrange.
 Upon choosing the last letter the score is displayed and the game ends.
 
 
-![alt tag](https://imgur.com/wkyiZz7)
+https://imgur.com/wkyiZz7
 
 The above image showcases blank tiles that have been selected correctly.
 
